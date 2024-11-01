@@ -31,8 +31,8 @@ This project implements a general tree data structure in C, including nodes and 
 To clone the repository, run the following command:
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/2001J/General-tree-data-structure.git
+cd 
 ```
 
 ## Usage

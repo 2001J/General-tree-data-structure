@@ -32,7 +32,7 @@ To clone the repository, run the following command:
 
 ```sh
 git clone https://github.com/2001J/General-tree-data-structure.git
-cd 
+cd  General-tree-data-structure
 ```
 
 ## Usage
